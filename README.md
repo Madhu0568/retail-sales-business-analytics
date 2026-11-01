@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Sales & Business Performance Analytics
 
 A beginner-friendly portfolio project using Python, Pandas, SQLite, SQL and visualisation.
@@ -35,3 +36,7 @@ Open `sql/analysis_queries.sql` for example business queries. The Python script 
 - Analysed historical online retail transactions to identify monthly revenue trends, top products, country-level performance and customer purchasing patterns.
 - Cleaned transaction data using documented rules for cancellations, invalid quantities/prices and missing customer identifiers.
 - Stored analysis-ready data in SQLite and generated business summaries and visualisations using Python and SQL.
+=======
+# retail-sales-business-analytics
+Retail sales analysis using Python, SQL and data visualization
+>>>>>>> 3e10008cc0d54ae2c1eda2305eb611db84bb5a52
