@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+venv/
+*.pyc
+outputs/*.csv
+outputs/*.db
+outputs/charts/*.png
+data/Online Retail.xlsx
+outputs/*.db
+__pycache__/
+.venv/
